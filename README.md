@@ -1,18 +1,1 @@
 # tamesi
-
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <title>南高校アプリ紹介</title>
-</head>
-<body>
-
-<h1>南高校アプリ紹介動画</h1>
-
-<video width="1000" controls>
-    <source src="Minami High School App.mp4" type="video/mp4">
-</video>
-
-</body>
-</html>
